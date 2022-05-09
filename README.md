@@ -32,6 +32,6 @@ Enquanto os dados da API estão sendo carregados ou quando o usuário faz login,
 <h3>Páginação do Feed</h3>
 Cada página do Feed contém 5 posts, o usuário pode ir até a página 10 para ver posts mais antigos.
 
-<h1>Em desenvolvimento:</h1>
+## Em desenvolvimento:
 - Resonsividade do site
 
