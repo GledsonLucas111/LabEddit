@@ -1,4 +1,4 @@
-<h1>LabEddit</h1>
+## LabEddit
 <h4>Projeto desenvolvido no Curso Labenu de uma plataforma de rede social baseada no reddit, recebendo a API LabEddit, com página de Login, Cadastro, Feed e Detalhes do Post e seus comentários.</h4>
 
 ## Ferramentas e tecnologias
@@ -10,7 +10,7 @@
 - Integração com API
 - Axios
 
-<h1>O que funciona?</h1>
+## O que funciona?
 <h3>Cadastro</h3>
 <h3>Página de Cadastro com inputs para o usuário cadastrar sua conta com user, email e senha.
 
