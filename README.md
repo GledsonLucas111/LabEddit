@@ -33,7 +33,7 @@ Enquanto os dados da API estão sendo carregados ou quando o usuário faz login,
 É possível buscar por palavras presentes no título e no conteúdo dos posts através de um input de busca.
 
 <h3>Páginação do Feed</h3>
-Cada página do Feed contém 5 posts, o usuário pode ir até a página 10 para ver posts mais antigos.
+Cada página do Feed contém 5 posts, o usuário pode ir até a página 5 para ver posts mais antigos.
 
 ## Em desenvolvimento:
 - Resonsividade do site
