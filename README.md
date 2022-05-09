@@ -44,3 +44,5 @@ Cada página do Feed contém 5 posts, o usuário pode ir até a página 10 para 
 ![image](https://user-images.githubusercontent.com/94623630/167510858-f0e0306e-0de4-4454-9a4a-3a060d0031b0.png)
 ![image](https://user-images.githubusercontent.com/94623630/167510912-edab3fc2-b0df-4d40-ad88-ef29876b2204.png)
 
+## Desenvolvedores:
+<a href="https://github.com/GledsonLucas111">Gledson Lucas</a>
