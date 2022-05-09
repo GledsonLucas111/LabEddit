@@ -39,8 +39,8 @@ Cada página do Feed contém 5 posts, o usuário pode ir até a página 10 para 
 - Resonsividade do site
 
 ## Imagens:
-![image](https://user-images.githubusercontent.com/94623630/156454188-40cc31b0-4d58-4706-8b4e-670258498d59.png)
-![image](https://user-images.githubusercontent.com/94623630/156454224-69079d2a-d0ea-47a2-bc54-0f593c07132b.png)
-![image](https://user-images.githubusercontent.com/94623630/156454394-4fa87466-dfd1-4dcc-8fc3-86fbe0a6da2c.png)
-![image](https://user-images.githubusercontent.com/94623630/156454450-69f8e744-84fa-43c7-b044-fc7475e1b033.png)
+![image](https://user-images.githubusercontent.com/94623630/167510748-cc76059d-e9c1-4b69-a60f-bf4850079b53.png)
+![image](https://user-images.githubusercontent.com/94623630/167510793-b3057249-9aad-4191-932d-eb6f951fc7e3.png)
+![image](https://user-images.githubusercontent.com/94623630/167510858-f0e0306e-0de4-4454-9a4a-3a060d0031b0.png)
+![image](https://user-images.githubusercontent.com/94623630/167510912-edab3fc2-b0df-4d40-ad88-ef29876b2204.png)
 
