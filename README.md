@@ -1,6 +1,9 @@
 ## LabEddit
 <h4>Projeto desenvolvido no Curso Labenu de uma plataforma de rede social baseada no reddit, recebendo a API LabEddit, com página de Login, Cadastro, Feed e Detalhes do Post e seus comentários.</h4>
 
+## Link do Surge:
+- https://grotesque-rat.surge.sh
+
 ## Ferramentas e tecnologias
 - React
 - JavaScript
@@ -12,7 +15,7 @@
 
 ## O que funciona?
 <h3>Cadastro</h3>
-<h3>Página de Cadastro com inputs para o usuário cadastrar sua conta com user, email e senha.
+Página de Cadastro com inputs para o usuário cadastrar sua conta com user, email e senha.
 
 <h3>Login</h3>
 Página de Login em que o usuário pode entrar na Página de Feed através de seu email e senha cadastrados. Quando o usuário faz Login, é possível fazer Logout clicando no botão "Logout" presente no Header em todas as páginas.
@@ -34,4 +37,10 @@ Cada página do Feed contém 5 posts, o usuário pode ir até a página 10 para 
 
 ## Em desenvolvimento:
 - Resonsividade do site
+
+## Imagens:
+![image](https://user-images.githubusercontent.com/94623630/156454188-40cc31b0-4d58-4706-8b4e-670258498d59.png)
+![image](https://user-images.githubusercontent.com/94623630/156454224-69079d2a-d0ea-47a2-bc54-0f593c07132b.png)
+![image](https://user-images.githubusercontent.com/94623630/156454394-4fa87466-dfd1-4dcc-8fc3-86fbe0a6da2c.png)
+![image](https://user-images.githubusercontent.com/94623630/156454450-69f8e744-84fa-43c7-b044-fc7475e1b033.png)
 
