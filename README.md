@@ -1,7 +1,7 @@
 <h1>LabEddit</h1>
 <h4>Projeto desenvolvido no Curso Labenu de uma plataforma de rede social baseada no reddit, recebendo a API LabEddit, com página de Login, Cadastro, Feed e Detalhes do Post e seus comentários.</h4>
 
-<h3>Ferramentas e tecnologias</h3>
+<h1>Ferramentas e tecnologias</h1>
 - React
 - JavaScript
 - Styled-components
@@ -10,7 +10,7 @@
 - Integração com API
 - Axios
 
-<h3>O que funciona?</h3>
+<h1>O que funciona?</h1>
 <h3>Cadastro</h3>
 <h3>Página de Cadastro com inputs para o usuário cadastrar sua conta com user, email e senha.
 
@@ -30,7 +30,7 @@ Enquanto os dados da API estão sendo carregados ou quando o usuário faz login,
 É possível buscar por palavras presentes no título e no conteúdo dos posts através de um input de busca.
 
 <h3>Páginação do Feed</h3>
-Cada página do Feed contém 10 posts, o usuário pode ir até a página 10 para ver posts mais antigos.
+Cada página do Feed contém 5 posts, o usuário pode ir até a página 10 para ver posts mais antigos.
 
 
 
