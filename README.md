@@ -4,27 +4,19 @@
 ## Link do Surge:
 - https://grotesque-rat.surge.sh
 
- ## Como executar este projeto em sua maquina 
- 
- O projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
+## Inicializar projeto
+```bash
+# Install package
+$ npm install
 
-<h3> Scripts Disponíveis: </h3>
 
-No diretório do projeto, você pode executar:
+# Executar projeto
+$ npm start
 
-### `npm install`
-
-Para instalar a node_modules para que o projeto funcione sem nenhum erro.
-
-### `npm start`
-
-Executa o aplicativo no modo de desenvolvimento.
 Abra [http://localhost:3000](http://localhost:3000) para visualizá-lo no navegador. 
 A página será recarregada se você fizer edições.
 Você também verá erros de lint no console.
-
-Veja a seção sobre [deployment](https://facebook.github.io/create-react-app/docs/deployment) para mais informações.
-
+```
 ## Ferramentas e tecnologias
 - React
 - JavaScript
